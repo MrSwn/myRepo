@@ -5,4 +5,4 @@ hahaha
 22222222二二二
 恩？？？
 阿瑟地方眷属
-Creating a new branch is quick.
+Creating a new branch is quick & simple
